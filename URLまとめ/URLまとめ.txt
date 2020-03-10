@@ -1,0 +1,132 @@
+docker 
+dockerの説明
+https://qiita.com/gold-kou/items/44860fbda1a34a001fc1
+
+dockertoolboxを入れて環境構築する。
+https://qiita.com/osuo/items/99a2b7413ce75f8217be
+
+docker サーバー
+https://qiita.com/Asuforce/items/3cab073fec0a3030b8a6
+
+docker ダウンロード
+https://qiita.com/ksh-fthr/items/6b1242c010fac7395a45
+
+画面仕様書を書くための手法
+https://tech.nikkeibp.co.jp/it/article/COLUMN/20070116/258835/
+
+powerpoint吹き出しを複数作るやり方
+https://www.digipot.net/?p=9151
+
+powepoint ハイパーリンク 紫色を直す
+https://allabout.co.jp/gm/gc/378326/
+
+オブジェクト指向
+https://eng-entrance.com/what-oop
+
+段落をそろえる ぶら下がり
+https://answers.microsoft.com/ja-jp/msoffice/forum/all/%E3%83%91%E3%83%AF%E3%83%BC%E3%83%9D%E3%82%A4/075b5f18-8859-42ad-871c-aeb9557343c6
+
+power point 目次 該当ページを付ける
+https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10102429475
+https://www.becoolusers.com/word/tab02.html
+
+
+仮想化技術
+https://qiita.com/r-tominaga/items/8ac588d603802572185f
+
+3分間
+http://www5e.biglobe.ne.jp/aji/3min/
+
+dockerでLAMP環境作成
+https://knowledge.sakura.ad.jp/1811/
+
+docker composeで環境構築
+https://qiita.com/bsuke914/items/5c27d8c6acfcc861fe0c
+
+初めてのサーバ構築＠CentOS
+https://qiita.com/jey0taka/items/19c00fede0ca47360d94
+
+基礎からのネットワーク&サーバ構築　まとめ
+https://qiita.com/chrischris0801/items/7987982bb1d895493d36
+
+tartoisegit clone仕方
+http://www.aise.ics.saitama-u.ac.jp/~gotoh/HowToCloneOnGit.html
+
+gitについて
+https://qiita.com/jesus_isao/items/63557eba36819faa4ad9
+
+git clone エラー128
+https://teratail.com/questions/121374
+
+Golangのデバッガdelveの使い方
+https://qiita.com/minamijoyo/items/4da68467c1c5d94c8cd7
+
+Visual Studio Code に 環境変数 設定 を追加 する 方法
+https://garafu.blogspot.com/2017/05/vscode-environment-variables.html
+
+依存関係管理ツールdep(golang)
+https://qiita.com/Azizim_A/items/66564b5dc7597717932b
+
+dep initとdep ensureまでの道のり
+https://qiita.com/pokotyan/items/2595a03383dbf76ffecc
+
+VSCode 用の launch.json でデバッグコマンドに環境変数 / 引数 / フラグを渡す設定
+https://qiita.com/YumaInaura/items/72c1c68e22c71f37cdd3
+
+Redisインストール
+https://weblabo.oscasierra.net/redis-windows-install/
+
+Redis github
+https://github.com/MicrosoftArchive/redis/releases
+
+jquery セレクタ
+http://www.hp-stylelink.com/news/2013/11/20131122.php
+
+svg使い方
+https://wemo.tech/1517
+
+独学プログラミング
+https://qiita.com/katy7/items/b28000cd74c10325ee5e
+
+webアプリ勉強法
+https://qiita.com/fukuda_fu/items/1c305b2a659a3e291c18
+
+ゼロからはじめるWebAssembly入門(2017/01更新)
+https://qiita.com/OMOIKANESAN/items/1ffc06ef6283befc4355
+
+今日からはじめるGitHub ? 初心者がGitをインストールして、プルリクできるようになるまでを解説
+https://employment.en-japan.com/engineerhub/entry/2017/01/31/110000
+
+【GitHub超初心者入門】この前初めてGitHubを使い始めたエンジニア見習いが書くGitHubの使い方と実践～とりあえず一緒に動かしてみようぜ！～
+https://qiita.com/nnahito/items/565f8755e70c51532459
+
+【Git】オレならこう説明する！Git初心者への用語説明
+https://qiita.com/nnahito/items/e546b27f73e7be131d4e
+
+word 表を次ページ(改ページ)に移行するには
+https://enterprisezine.jp/iti/detail/730
+
+正規表現 特定の文字より前・後ろの指定
+http://straylight-engineer.blogspot.com/2014/01/blog-post.html
+
+文系エンジニアが機械学習に入門するために小学校の算数から高校数学までを一気に復習してみました。
+https://qiita.com/poly_soft/items/8ea0fc85577f0726f098
+
+Ruby->Go->Scalaという習得順序がエンジニアの爆速の成長に最適である理由
+https://qiita.com/poly_soft/items/1feaa1ec5ecab08dc6db
+
+川口さんのインタビュー
+https://findy-code.io/interviews/MHI-engineer
+
+正規化入門
+https://sinyblog.com/deaplearning/preprocessing_001/
+https://miningoo.com/1032/
+
+すべての新米フロントエンドエンジニアに読んでほしい50の資料
+https://qiita.com/suzu-4/items/ea5d802cb0ad16682ae2
+
+新人共有資料: フロントエンド
+https://qiita.com/okadak/items/d094508f137b738d4aca
+
+統計学 基礎
+https://haru-reha.com/mean-median/
