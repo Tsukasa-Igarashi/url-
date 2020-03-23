@@ -130,3 +130,19 @@ https://qiita.com/okadak/items/d094508f137b738d4aca
 
 統計学 基礎
 https://haru-reha.com/mean-median/
+
+【初心者向け】Github pagesでwebページを公開する方法
+https://qiita.com/sota_mikami/items/c6038cf13fd84b519a61
+
+シグモイド関数
+http://arduinopid.web.fc2.com/N37.html
+http://ailaby.com/sigmoid_coef/
+
+初心者が流れで学ぶDocker/Kubernetes超入門
+https://qiita.com/sanpo_shiho/items/fc8082f3d303c04cca2e?utm_source=Qiita%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&utm_campaign=b35fad3492-Qiita_newsletter_404_03_18_2020&utm_medium=email&utm_term=0_e44feaa081-b35fad3492-35362421
+
+「プログラミング言語Go完全入門」の期間限定公開のお知らせ
+https://tech.mercari.com/entry/2020/03/17/120137
+
+クロスサイト
+https://cybersecurity-jp.com/security-measures/18427

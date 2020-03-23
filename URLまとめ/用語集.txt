@@ -495,3 +495,9 @@ https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1427711779
 
 IGR
 ※IGR：Internal gas Recirculation （内部ガス循環）
+
+Ajax
+https://qiita.com/hisamura333/items/e3ea6ae549eb09b7efb9
+
+クロスサイト
+https://cybersecurity-jp.com/security-measures/18427
