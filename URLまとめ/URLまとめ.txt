@@ -146,3 +146,18 @@ https://tech.mercari.com/entry/2020/03/17/120137
 
 クロスサイト
 https://cybersecurity-jp.com/security-measures/18427
+
+エンジニアの俺が営業向けの本を読んだが用語がまったくわからん（から用語集を作った 
+https://qiita.com/fruitriin/items/a08a457f8f17d36ba868?utm_source=Qiita%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&utm_campaign=f66772c2ca-Qiita_newsletter_405_03_25_2020&utm_medium=email&utm_term=0_e44feaa081-f66772c2ca-35362421
+
+DockerのDの字も分からない状態を抜け出すためにやって良かったことをまとめてみる 
+https://qiita.com/a-pompom/items/bf568322b190d0e283b6?utm_source=Qiita%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&utm_campaign=f66772c2ca-Qiita_newsletter_405_03_25_2020&utm_medium=email&utm_term=0_e44feaa081-f66772c2ca-35362421
+
+180日でWeb開発者になる方法(コンピューターサイエンスの学位なしで)
+https://qiita.com/baby-degu/items/a06bddd1a61b7d907a55?utm_source=Qiita%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&utm_campaign=f66772c2ca-Qiita_newsletter_405_03_25_2020&utm_medium=email&utm_term=0_e44feaa081-f66772c2ca-35362421
+
+最短で機械学習エキスパートになる9つのステップ【完全無料】
+https://qiita.com/jp_Pythonia/items/19a321e05d7e0db47fb6?utm_source=Qiita%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&utm_campaign=f66772c2ca-Qiita_newsletter_405_03_25_2020&utm_medium=email&utm_term=0_e44feaa081-f66772c2ca-35362421
+
+JavaScript: 通常の関数とアロー関数の違いは「書き方だけ」ではない。異なる性質が10個ほどある。
+https://qiita.com/suin/items/a44825d253d023e31e4d?utm_source=Qiita%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&utm_campaign=f66772c2ca-Qiita_newsletter_405_03_25_2020&utm_medium=email&utm_term=0_e44feaa081-f66772c2ca-35362421

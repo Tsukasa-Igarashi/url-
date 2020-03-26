@@ -39,3 +39,17 @@ https://jshint.com/
 
 PATHの編集
 https://qiita.com/sta/items/6d29da0dc7069ffaae60
+
+websocket通信
+<script>
+// WebSocket通信
+var ws = new WebSocket('ws://127.0.0.1:22603/dashboard/messageconnect');
+ws.addEventListener('message', function(e) {
+// 更新などがあればメッセージSEQが通知されるのでそのメッセージを取得し追記する
+var msg = JSON.parse(e.data);
+console.log(msg)
+});
+</script>
+
+POST
+curl -X POST "http://127.0.0.1:25603/dashboard/setmessage" -H "accept: application/json" -H "Content-Type: application/x-www-form-urlencoded" -d "cluster=&parent_message_seq=&kbn=teishi&tag=%E3%81%82&title=test&text=honbun"
