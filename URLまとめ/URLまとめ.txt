@@ -161,3 +161,6 @@ https://qiita.com/jp_Pythonia/items/19a321e05d7e0db47fb6?utm_source=Qiita%E3%83%
 
 JavaScript: 通常の関数とアロー関数の違いは「書き方だけ」ではない。異なる性質が10個ほどある。
 https://qiita.com/suin/items/a44825d253d023e31e4d?utm_source=Qiita%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&utm_campaign=f66772c2ca-Qiita_newsletter_405_03_25_2020&utm_medium=email&utm_term=0_e44feaa081-f66772c2ca-35362421
+
+初心者の初心者による初心者のためのGit入門
+https://qiita.com/novl/items/5491b4bb87170aa58a2e

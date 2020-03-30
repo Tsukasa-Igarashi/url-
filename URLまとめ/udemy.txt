@@ -10,3 +10,42 @@ Vue.js + Firebaseで作るシングルページアプリケーション
 https://www.cdeight.com/recommendation-udemy/
 
 (Python でわかる オブジェクト指向 とはなにか？【Python オブジェクト指向 の「なぜ？」を「徹底的に」解説)
+
+
+
+
+
+
+
+
+[HTML/CSS/JavaScript] フロントエンドエンジニアになりたい人の Webプログラミング入門
+
+フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門
+
+実例でわかる JavaScript 初心者講座
+
+はじめてのLinuxサーバー構築運用入門 - コマンド操作がはじめてでも自分でWebサーバを構築できるオンライン講座
+
+PHP+MySQL（MariaDB） Webサーバーサイドプログラミング入門
+
+実例でわかる JavaScript ローカルアプリ開発講座 Windows版 node.js NW.js
+
+Vue.js + Firebaseで作るシングルページアプリケーション
+
+Web 開発入門完全攻略コース - プログラミング をはじめて学び創れる人へ！未経験から現場で使える開発スキルを習得！
+
+【世界で30万人が受講】フルスタック・Webエンジニア講座（2019最新版
+
+キカガク流　人工知能・機械学習　脱ブラックボックス講座 -初級編-
+
+【情報セキュリティ】Ethical Hacking：ホワイトハッカー入門
+
+
+
+[HTML/CSS/JavaScript] フロントエンドエンジニアになりたい人の Webプログラミング入門
+実例でわかる JavaScript 初心者講座
+フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門
+【世界で30万人が受講】フルスタック・Webエンジニア講座（2019最新版
+実例でわかる JavaScript ローカルアプリ開発講座 Windows版 node.js NW.js
+
+PHP+MySQL（MariaDB） Webサーバーサイドプログラミング入門
