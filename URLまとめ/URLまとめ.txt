@@ -164,3 +164,6 @@ https://qiita.com/suin/items/a44825d253d023e31e4d?utm_source=Qiita%E3%83%8B%E3%8
 
 初心者の初心者による初心者のためのGit入門
 https://qiita.com/novl/items/5491b4bb87170aa58a2e
+
+カレンダーも電卓もできる！JavaScriptで作られたWeb作品7選
+https://www.sejuku.net/blog/3834
